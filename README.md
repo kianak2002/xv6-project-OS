@@ -10,4 +10,4 @@ you must use a cross-compiler. Xv6 does boot on real hardware, but typically we 
 emulator. Both the GCC cross compiler and QEMU can be found on the 6.828 tools page. [more](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
 
 ### Changes
-I implemented some new system calls.
+I implemented some new system calls. explanations are all [here](https://github.com/kianak2002/OS_xv6_project/blob/main/9831006_hw1_gozaresh.pdf)
