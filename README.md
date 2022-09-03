@@ -14,4 +14,4 @@ I implemented some new system calls. explanations are all [here](https://github.
 
 
 ## Report
-report of first phase and second phase can be found [here](https://github.com/kianak2002/xv6-project-OS/blob/main/9831006_hw1_gozaresh.pdf) and [here]().
+report of first phase and second phase can be found [here](https://github.com/kianak2002/xv6-project-OS/blob/main/9831006_hw1_gozaresh.pdf) and [here](https://github.com/kianak2002/xv6-project-OS/blob/main/9831006_phase2_gozaresh.pdf).
