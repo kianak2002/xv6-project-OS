@@ -11,3 +11,7 @@ emulator. Both the GCC cross compiler and QEMU can be found on the 6.828 tools p
 
 ### Changes
 I implemented some new system calls. explanations are all [here](https://github.com/kianak2002/OS_xv6_project/blob/main/9831006_hw1_gozaresh.pdf)
+
+
+## Report
+report of first phase and second phase can be found [here](https://github.com/kianak2002/xv6-project-OS/blob/main/9831006_hw1_gozaresh.pdf) and [here]().
